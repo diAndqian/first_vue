@@ -1,5 +1,5 @@
 # vue-first-item
-这是一个登录界面的小尝试
+
 ## Project setup
 ```
 npm install
